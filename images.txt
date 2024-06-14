@@ -1,1 +1,5 @@
 vaultwarden/server
+b3log/siyuan
+emby/embyserver
+hanhongyong/ms365-e5-renew-x
+xhofe/alist
