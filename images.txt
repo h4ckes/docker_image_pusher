@@ -4,3 +4,4 @@ emby/embyserver
 hanhongyong/ms365-e5-renew-x
 xhofe/alist
 b3log/solo
+vaultwarden/web-vault
