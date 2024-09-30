@@ -1,5 +1,5 @@
 vaultwarden/server
-b3log/siyuan
+b3log/siyuan:latest
 emby/embyserver
 hanhongyong/ms365-e5-renew-x
 xhofe/alist
