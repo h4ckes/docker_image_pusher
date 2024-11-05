@@ -2,5 +2,3 @@ vaultwarden/server
 b3log/siyuan:latest
 emby/embyserver
 xhofe/alist
-b3log/solo
-vaultwarden/web-vault
