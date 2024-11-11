@@ -1,4 +1,4 @@
-vaultwarden/server
+vaultwarden/server:latest
 b3log/siyuan:latest
-emby/embyserver
-xhofe/alist
+emby/embyserver:latest
+xhofe/alist:latest
