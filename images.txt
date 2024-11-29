@@ -3,3 +3,4 @@ b3log/siyuan:v3.1.13
 emby/embyserver:latest
 xhofe/alist:latest
 b3log/solo:latest
+amilys/embyserver:4.9.0.31
