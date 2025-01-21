@@ -3,7 +3,7 @@ b3log/siyuan:latest
 emby/embyserver:latest
 xhofe/alist:latest
 b3log/solo:latest
-amilys/embyserver:4.9.0.31
+amilys/embyserver:latest
 xiaoyaliu/glue:latest
 emby/embyserver_arm64v8:latest
 onething1/wxedge:latest
