@@ -4,9 +4,5 @@ emby/embyserver:latest
 xhofe/alist:latest
 b3log/solo:latest
 amilys/embyserver:latest
-xiaoyaliu/glue:latest
 emby/embyserver_arm64v8:latest
 onething1/wxedge:latest
-ghcr.io/open-webui/open-webui:git-7766a08-ollama
-ghcr.io/open-webui/open-webui:main
-openvpn/openvpn-as
