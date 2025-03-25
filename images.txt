@@ -6,3 +6,4 @@ b3log/solo:latest
 amilys/embyserver:latest
 emby/embyserver_arm64v8:latest
 onething1/wxedge:latest
+jonnyan404/verysync
