@@ -7,3 +7,4 @@ amilys/embyserver:latest
 emby/embyserver_arm64v8:latest
 onething1/wxedge:latest
 jonnyan404/verysync
+ghcr.io/open-webui/open-webui
